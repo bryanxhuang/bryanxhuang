@@ -1,4 +1,12 @@
-### Hi there 👋
+# Bryan Huang
+
+Hullo! My name is Bryan.
+
+I'm a junior at USC studying Computer Science.
+
+Always interested in meeting new people:
+[Contact](https://bryanxhuang.com)
+
 
 <!--
 **bryanxhuang/bryanxhuang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
