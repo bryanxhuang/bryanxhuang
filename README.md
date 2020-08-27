@@ -1,11 +1,8 @@
 # Bryan Huang
 
-Hullo! My name is Bryan.
+Welcome. 
 
-I'm a junior at USC studying Computer Science.
-
-Always interested in meeting new people:
-[Contact](https://bryanxhuang.com)
+[bryhuang.com](https://bryhuang.com)
 
 
 <!--
